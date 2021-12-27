@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on team and development
 
-<!---
-sizipeezy/sizipeezy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![image](https://user-images.githubusercontent.com/96740451/147491195-9367d2dd-62d9-444b-9fa5-ae3c8683d796.png)
+
+https://softuni.bg/
+
+C#
