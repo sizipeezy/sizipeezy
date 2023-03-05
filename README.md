@@ -3,6 +3,6 @@
 - 🌱 Motivated, Desire to learn
 - Student @SoftUni and @TechnicalUniversity of Sofia
 - 6 Months Experience - Internship
-- 2 years+ experience with C#
-
-C#
+- 2.5 years+ experience with C#
+- HTML&CSS - Fundamental knowledge
+- 6 months+ ASP.NET MVC 
